@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.mui {
+  background-color: #02be6e!important;
+}
+
+.mui button{
+  display: none!important;
+}
